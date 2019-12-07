@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-11-04T21:52:51+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Attending NVMSA 2019</title><link href="http://localhost:4000/conference/2019/11/01/Kaldi2019.html" rel="alternate" type="text/html" title="Attending NVMSA 2019" /><published>2019-11-01T21:01:59+08:00</published><updated>2019-11-01T21:01:59+08:00</updated><id>http://localhost:4000/conference/2019/11/01/Kaldi2019</id><content type="html" xml:base="http://localhost:4000/conference/2019/11/01/Kaldi2019.html">&lt;p&gt;课程组成员（liqa, ful, shangwh, hb）参加2019年10月26日在北京召开的第四届Kaldi线下交流会。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-12-07T22:06:26+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">参加 Kaldi 线下交流会</title><link href="http://localhost:4000/conference/2019/11/01/Kaldi2019.html" rel="alternate" type="text/html" title="参加 Kaldi 线下交流会" /><published>2019-11-01T21:01:59+08:00</published><updated>2019-11-01T21:01:59+08:00</updated><id>http://localhost:4000/conference/2019/11/01/Kaldi2019</id><content type="html" xml:base="http://localhost:4000/conference/2019/11/01/Kaldi2019.html">&lt;p&gt;课程组成员（liqa, ful, shangwh, hb）参加2019年10月26日在北京召开的第四届Kaldi线下交流会。&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzU4MTA0NDE5NQ==&amp;amp;mid=2247484808&amp;amp;idx=1&amp;amp;sn=8df77b82b45e39ad8e5795bb3bb2dd7a&amp;amp;chksm=fd4cd704ca3b5e12f40ed09a17ac19a3c8980e67c0b083ef8f6ca6eac979c5c3b40acfc0d2ae&amp;amp;mpshare=1&amp;amp;scene=23&amp;amp;srcid=&amp;amp;sharer_sharetime=1572608929667&amp;amp;sharer_shareid=5b0302a7a01e61595e278f56caec04fe&quot;&gt;
 第四届Kaldi线下交流会
@@ -19,20 +19,282 @@ https://nvmsa2019.github.io/index/
 
 &lt;p&gt;&lt;a href=&quot;https://past.date-conference.com/&quot;&gt;
 https://past.date-conference.com/
-&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">课程组成员（liqa, liw）参加在意大利佛罗伦萨主办的DATE 2019会议。liw同学宣讲了《A Wear Leveling Aware Memory Allocator for Both Stack and Heap Management in PCM-based Main Memory Systems》。</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2019/01/20/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-01-20T21:01:59+08:00</published><updated>2019-01-20T21:01:59+08:00</updated><id>http://localhost:4000/jekyll/update/2019/01/20/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/01/20/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">课程组成员（liqa, liw）参加在意大利佛罗伦萨主办的DATE 2019会议。liw同学宣讲了《A Wear Leveling Aware Memory Allocator for Both Stack and Heap Management in PCM-based Main Memory Systems》。</summary></entry><entry><title type="html">主办 2018 Workshop on Storage and Neural Network Accelerators</title><link href="http://localhost:4000/workshop/2018/05/21/workshop.html" rel="alternate" type="text/html" title="主办 2018 Workshop on Storage and Neural Network Accelerators" /><published>2018-05-21T08:01:59+08:00</published><updated>2018-05-21T08:01:59+08:00</updated><id>http://localhost:4000/workshop/2018/05/21/workshop</id><content type="html" xml:base="http://localhost:4000/workshop/2018/05/21/workshop.html">&lt;p&gt;2018 Workshop on Storage and Neural Network Accelerators&lt;/p&gt;
 
-&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+&lt;h1 id=&quot;program&quot;&gt;Program&lt;/h1&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;时间：2018年5月21日，星期一&lt;/p&gt;
 
-&lt;p&gt;Where &lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;地点：湖北省武汉市，武汉大学，计算机学院E202会议室&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;联系人：李清安 qingan@whu.edu.cn&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Time&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Title &amp;amp; Speaker&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;8:30 - 9:00&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;大学的创新之路 &lt;br /&gt;&lt;em&gt;Prof. Kuo Tai-Wei, National Taiwan University (台湾大学)&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;9:00 - 9:30&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;System Innovation for Mobile &amp;amp; IoT Applications&lt;br /&gt;&lt;em&gt;Prof. Hsiu Pi-Cheng, Academia Sinica, Taiwan (台湾中央研究院)&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;9:30 - 10:00&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;KVSSD: Close Integration of LSM Trees and Flash Translation Layer for Write-Efficient KV Store&lt;br /&gt;&lt;em&gt;Prof. Chang Li-Pin, National Chiao Tung University (台湾交通大学)&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;10:00 - 10:20&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Break&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;10:20 - 10:40&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Energy Efficient Neural Network Accelerators for IoT Applications&lt;br /&gt;&lt;em&gt;Prof. Liu Yong-Pan, Tshinghua University (清华大学)&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;10:40 - 11:00&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;File Fragmentation in Mobile Devices: Measurement, Evaluation, and Treatment&lt;br /&gt;&lt;em&gt;Prof. Xue Jason Chun, City University of Hongkong (香港城市大学)&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;11:00 - 11:20&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;A Peripheral Circuit Reuse Structure Integrated with a Retimed Data Flow for Low Power RRAM Crossbar-based CNN&lt;br /&gt;&lt;em&gt;Prof. Qiu Ke-Ni, Capital Normal University (首都师范大学)&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;11:20-11:40&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Applying Multiple Level Cell to Non-volatile FPGAs&lt;br /&gt;&lt;em&gt;Prof. Zhao Meng-Ying, Shandong University (山东大学)&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;h1 id=&quot;program-details&quot;&gt;Program details&lt;/h1&gt;
+
+&lt;h2 id=&quot;kuo-tai-wei-national-taiwan-university&quot;&gt;Kuo Tai-Wei, National Taiwan University&lt;/h2&gt;
+
+&lt;h3 id=&quot;title&quot;&gt;Title&lt;/h3&gt;
+
+&lt;p&gt;大学的创新之路&lt;/p&gt;
+
+&lt;h3 id=&quot;abstract&quot;&gt;Abstract&lt;/h3&gt;
+
+&lt;p&gt;大学创新教育需要挑战与突破以往教学的领域和既有框架，不仅应补足学生较缺乏创意与创新思维的领域课程，更应该培育与激发学生具备创业家精神，甚至借由执行创业的平台，让创新专案借此萌芽。而它的成功与否也在于如何根植于一个适当的创新创意创业生态体系，结合「创业家论坛」等活动，连结新创青年与创业前辈之间的连结，整合校外资源，提供经验传承与资源分享，形成属于大学新创的特色社群。&lt;/p&gt;
+
+&lt;h3 id=&quot;bio&quot;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Dr. Kuo is an ACM Fellow and an IEEE Fellow and is now an executive committee member of the IEEE Technical Committee on Real-Time Systems and the Vice Chair of SIGAPP. He also served as a member in the IEEE Fellow Evaluation Committee (Computer Society, 2011, 2013). He received the TECO Award in 2015, the Distinguished Research Award from the ROC National Science Council/Ministry of Science and Technology in 2003, 2011, and 2014, the Distinguished EE Professor Award from the Chinese Institute of Electrical Engineering in 2007, the ROC Ten Young Outstanding Persons Award in 2004, the Young Research Investigators Award from Academia Sinica, Taiwan, ROC, in 2001, and the Investigative Research Award from the Pan Wen Yuan Foundation, Taiwan, ROC, in 1999, and received teaching awards from the National Taiwan University in 2003, 2004, 2005, 2010, 2011, 2012, 2014, and 2015, including the Distinguished Teaching Award (top 1%; 2005). Prof. Kuo was a chair of the Embedded Systems Group of the Networked Communication Program Office and served as an independent board director of the Genesys Logic and the MStar Semiconductor, leading companies in IC designs for display, smartphones, wireless communication, USB, and flash-memory controllers and with the total annual revenue over 1 billion US dollars. He is the Program Director of the Computer Science Division of the ROC National Science Council/Ministry of Science and Technology since January 2013.&lt;/p&gt;
+
+&lt;h2 id=&quot;hsiu-pi-cheng-academia-sinica-taiwan&quot;&gt;Hsiu Pi-Cheng, Academia Sinica, Taiwan&lt;/h2&gt;
+&lt;h3 id=&quot;title-1&quot;&gt;Title&lt;/h3&gt;
+
+&lt;p&gt;System Innovation for Mobile &amp;amp; IoT Applications&lt;/p&gt;
+
+&lt;h3 id=&quot;abstract-1&quot;&gt;Abstract&lt;/h3&gt;
+
+&lt;p&gt;Mobile computing has led to paradigm shifts in user behavior, application semantics, and device features. However, hasty software solutions that borrow legacy designs directly from conventional operating systems developed originally for desktops are not suitable for mobile systems intended for smartphones, tablets, wearables, or IoT devices, particularly in conjunction with cloud computing. We have been conducting scientific and engineering research to seek to affect the future designs of mobile and IoT systems. In this talk, I will give our research landscape and present several original design concepts for cloud-based energy saving services, user-centric mobile systems, and multi-device IoT applications. I will also demonstrate our prototype implementations on CHT hicloud, Android smartphones, and TI embedded devices to validate the practicality of the designs.&lt;/p&gt;
+
+&lt;h3 id=&quot;bio-1&quot;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Pi-Cheng Hsiu received the Ph.D. degree in computer science and information engineering from National Taiwan University, Taiwan, in 2009. He is currently a Research Fellow and Deputy Director of the Research Center for Information Technology Innovation (CITI), where he leads the Embedded and Mobile Computing Laboratory (EMCLab), and is also a Joint Research Fellow with the Institute of Information Science (IIS), Academia Sinica, Taiwan. He was a Visiting Scholar with the Department of Computer Science, University of Illinois at Urbana-Champaign, USA, in 2007. Dr. Hsiu joined CITI as an Assistant Research Fellow in 2009, and was promoted to an Associate Research Fellow in 2013 and to a Research Fellow in 2018. He serves as an Associate Editor of the ACM Transactions on Cyber-Physical Systems and in the Organizing/Program Committees of many international conferences in his field, such as IEEE/ACM ISLPED. His research interests include embedded systems, mobile systems, and real-time systems. He is a senior member of the IEEE and a senior member of the ACM.&lt;/p&gt;
+
+&lt;h2 id=&quot;chang-li-pin-national-chiao-tung-university&quot;&gt;Chang Li-Pin, National Chiao Tung University&lt;/h2&gt;
+&lt;h3 id=&quot;title-2&quot;&gt;Title&lt;/h3&gt;
+
+&lt;p&gt;KVSSD: Close Integration of LSM Trees and Flash Translation Layer for Write-Efficient KV Store&lt;/p&gt;
+
+&lt;h3 id=&quot;abstract-2&quot;&gt;Abstract&lt;/h3&gt;
+
+&lt;p&gt;Log-Structured-Merge (LSM) trees are a writeoptimized data structure for lightweight, high-performance KeyValue (KV) store. Solid State Disks (SSDs) provide acceleration of KV operations on LSM trees. However, this hierarchical design involves multiple software layers, including the LSM tree, host file system, and Flash Translation Layer (FTL), causing cascading write amplifications. We propose KVSSD, a close integration of LSM trees and the FTL, to manage write amplifications from different layers. KVSSD exploits the FTL mapping mechanism to implement copy-free compaction of LSM trees, and it enables direct data allocation in flash memory for efficient garbage collection. In our experiments, compared to the hierarchical design, our KVSSD reduced the write amplification by 88% and improved the throughput by 347%&lt;/p&gt;
+
+&lt;h3 id=&quot;bio-2&quot;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Li-Pin Chang received a M.S.E and a Ph.D. degree in Computer Science and Information Engineering from National Taiwan University, Taiwan, in 1997 and 2003, respectively. He is currently a Professor at Department of Computer Science, National Chiao Tung University, Taiwan. He was a visiting scholar with Fulbright Scholarship in University of Minnesota in 2015. His research interest involves operating systems, storage systems, non-volatile memory, and mobile devices.&lt;/p&gt;
+
+&lt;h2 id=&quot;刘勇攀-清华大学&quot;&gt;刘勇攀, 清华大学&lt;/h2&gt;
+&lt;h3 id=&quot;title-3&quot;&gt;Title&lt;/h3&gt;
+
+&lt;p&gt;Energy Efficient Neural Network Accelerators for IoT Applications&lt;/p&gt;
+
+&lt;h3 id=&quot;abstract-3&quot;&gt;Abstract&lt;/h3&gt;
+
+&lt;p&gt;In this talk, two energy efficient neural network accelerators will be presented for low power IoT applications. The first accelerator proposes a kernel-optimized CNN architecture and an online training FC architecture. A 3x3 kernel-optimized architecture is implemented as a proof-of-concept, and the energy efficiency of which is 4.01x better than the state-of-the-art CNN processor. Furthermore, the proposed online training architecture further reduces parameters update operations by five orders of magnitude for IoT applications. Silicon implementation shows that the energy efficient can be up to 3.77Tops/W. The second accelerator aims at the energy harvesting wearable IoT devices. The accelerator employs RRAM-based nonvolatile logics (NVL) with self-write-termination scheme and low-power processing-in-memory (PIM) to achieve energy-efficient computing against frequent power-off situations. A test chip was fabricated in 150nm CMOS process using HfO RRAM. It achieves 462GOPs/J energy efficiency at 20MHz clock frequency.&lt;/p&gt;
+
+&lt;h3 id=&quot;bio-3&quot;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Dr. Yongpan Liu is an associate professor in Tsinghua University. He has been a visiting scholar at Penn State University and City University of Hong Kong. He is a key member of Tsinghua-Rohm Research Center and Research Center of Future ICs. His research interests include low power design, emerging circuits and systems and design automation. He published over 100 papers and designed several sensor chips, including the first nonvolatile processor (THU1010N). He is an IEEE senior member and served on TPC of (DAC, ASP-DAC, ISLPED, A-SSCC, ICCD, VLSI-D, VLSI-DAT, etc) and has received Design Contest Awards from (ISLPED2012, ISLPED2013), IEEE Micro Top Pick 2016 and best paper awards of HPCA2015 and ASP-DAC2017 and Under 40 Innovation Award of DAC 2017. He served as the publicity co-chair of ICCD15,16 and the exhibition chair of A-SSCC15 and one of the founders of Asia Workshop on Smart Sensor System.&lt;/p&gt;
+
+&lt;h2 id=&quot;xue-jason-chun-city-university-of-hong-kong&quot;&gt;Xue Jason Chun, City University of Hong Kong&lt;/h2&gt;
+
+&lt;h3 id=&quot;title-4&quot;&gt;Title&lt;/h3&gt;
+
+&lt;p&gt;File Fragmentation in Mobile Devices: Measurement, Evaluation, and Treatment&lt;/p&gt;
+
+&lt;h3 id=&quot;abstract-4&quot;&gt;Abstract&lt;/h3&gt;
+
+&lt;p&gt;Mobile devices, such as smartphones, have become a necessity in our daily life. However, users may notice that after being used for a long time, mobile devices begin to exhibit sluggish response. Based on an empirical study on a collection of aged smartphones, this work identified that file fragmentation is among the key factors that contribute to the progressive degradation of response time. This study takes a three-step approach: First, this study designed a set of reproducible file-system aging processes based on User-Interface (UI) script replay. Through the aging processes, it confirmed that file fragmentation quickly emerged, and SQLite files were among the most severely fragmented files. Second, based on the workloads of a selection of popular mobile applications, this study observed that file fragmentation did impact on user-perceived latencies. Specifically, the launching time of Chrome on an aged file system was 79% slower than it was on a pristine file system. Third, this study evaluated existing treatments of file fragmentation, including space preallocation, and file defragmentation to understand their efficacies and limitations. This study also evaluated a state-of-the-art defragmenter to show its advantage over the existing methods.&lt;/p&gt;
+
+&lt;h3 id=&quot;bio-4&quot;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Dr. Chun Jason Xue is an Associate Professor at City University of Hong Kong Computer Science Department. His research interests include non-volatile memories, embedded and realtime systems. He is currently Associate Editor for ACM Transaction on Embedded Computing Systems, Associate Editor for ACM Transaction on CPS, Associated Editor for ACM Transaction on Storage. He was the TPC co-chair for LCTES 2015, TPC co-char for ISVLSI 2016, and has served as TPC members in premiere conferences such as DAC, DATE, RTSS, RTAS, CODES, EMSOFT and ISLPED.&lt;/p&gt;
+&lt;h2 id=&quot;邱柯妮-首都师范大学&quot;&gt;邱柯妮, 首都师范大学&lt;/h2&gt;
+
+&lt;h3 id=&quot;title-5&quot;&gt;Title&lt;/h3&gt;
+
+&lt;p&gt;A Peripheral Circuit Reuse Structure Integrated with a Retimed Data Flow for Low Power RRAM Crossbar-based CNN&lt;/p&gt;
+
+&lt;h3 id=&quot;abstract-5&quot;&gt;Abstract&lt;/h3&gt;
+
+&lt;p&gt;Convolutional computations implemented in RRAM crossbar-based Computing System (RCS) demonstrate the outstanding advantages of high performance and low power. However, current designs are energy-unbalanced among the three parts of RRAM crossbar computation, peripheral circuits and memory accesses, and the latter two factors can significantly limit the potential gains of RCS. Addressing the problem of high power overhead of peripheral circuits in RCS, this paper proposes a Peripheral Circuit Unit (PeriCU)-Reuse scheme to meet power budgets in energy constrained embedded systems. The underlying idea is to put the expensive ADCs/DACs onto spotlight and arrange multiple convolution layers to be sequentially served by the same PeriCU. In the solution, the first step is to determine the number of PeriCUs which are organized by cycle frames. Inside a cycle frame, the layers are computed in parallel inter-PeriCUs while sequentially intra-PeriCU. Furthermore, a layer retiming technique is exploited to further improve the energy of RCS by assigning two adjacent layers within the same PeriCU so as to bypass the energy consuming memory accesses. The experiments of five convolutional applications validate that the PeriCU-Reuse scheme integrated with the retiming technique can efficiently meet variable power budgets, and further reduce energy consumption efficiently.&lt;/p&gt;
+
+&lt;h3 id=&quot;bio-5&quot;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Dr. Keni Qiu is currently a Research Associate Professor of the College of Information Engineering at the Capital Normal University. Her research interests include HW/SW co-design for embedded system architecture, non-volatile memory, non-volatile processors and processing-in-memory. She has published papers in the prestigious conferences and journals such as DAC, DATE, ICCD, TC, TCAD, TECS and so on. She won the Best Paper Awards in ICCD’16 and ICESS’17, the Finalist in ISLPED’17 Design Contest.&lt;/p&gt;
+
+&lt;h2 id=&quot;赵梦莹-山东大学&quot;&gt;赵梦莹, 山东大学&lt;/h2&gt;
+
+&lt;h3 id=&quot;title-6&quot;&gt;Title&lt;/h3&gt;
+
+&lt;p&gt;Applying Multiple Level Cell to Non-volatile FPGAs&lt;/p&gt;
+
+&lt;h3 id=&quot;abstract-6&quot;&gt;Abstract&lt;/h3&gt;
+
+&lt;p&gt;Static random access memory (SRAM) based field programmable gate arrays (FPGAs) are currently facing challenges of limited capacity and high leakage power. To solve this problem, non-volatile memory (NVM) is proposed as the alternative to build non-volatile FPGAs (NVFPGAs). Even though the feasibility of NVFPGA has been confirmed, the utilization of multiple level cells (MLC) has not been fully exploited yet. In this talk, I will introduce our exploration on applying MLC to NVFPGAs. Specifically, we study architecture of MLC based NVFPGAs, and propose five cluster structures, as well as the corresponding working mode supported by MLC based clusters.&lt;/p&gt;
+
+&lt;h3 id=&quot;bio-6&quot;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Mengying Zhao received B.E. degree in School of Computer Science and Technology from Shandong University, China in July 2011, and Ph.D. degree in Department of Computer Science, City University of Hong Kong in July 2015. She is now an Assistant Professor in School of Computer Science and Technology in Shandong University. Her research interests include computer architecture, embedded and real-time systems, and non-volatile memory.&lt;/p&gt;</content><author><name></name></author><summary type="html">2018 Workshop on Storage and Neural Network Accelerators</summary></entry><entry><title type="html">主办 2016 Workshop on Non-volatile Memory and Its Application</title><link href="http://localhost:4000/workshop/2016/12/12/workshop.html" rel="alternate" type="text/html" title="主办 2016 Workshop on Non-volatile Memory and Its Application" /><published>2016-12-12T21:01:59+08:00</published><updated>2016-12-12T21:01:59+08:00</updated><id>http://localhost:4000/workshop/2016/12/12/workshop</id><content type="html" xml:base="http://localhost:4000/workshop/2016/12/12/workshop.html">&lt;p&gt;2016 Workshop on Non-volatile Memory and Its Application&lt;/p&gt;
+
+&lt;h2 id=&quot;program&quot;&gt;Program&lt;/h2&gt;
+
+&lt;p&gt;Date: Monday, Dec. 12, 2016
+Venue: E202, State Key Laboratory of Software Engineering, Wuhan University, Wuhan, China
+Contact: Dr. LI Qingan, qingan@whu.edu.cn&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Time&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Title &amp;amp; Speaker&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;9:00 - 9:30&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Flash Memory Performance and Reliability Optimization: From Chips, Controllers to Systems &lt;br /&gt; &lt;em&gt;Prof. Chun Jason Xue, City University of Hongkong&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;9:30 - 10:00&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Design Software and Systems for Non-volatile Processors on Self-Powered Devices &lt;br /&gt; &lt;em&gt;Dr. Jingtong Hu, Oklahoma State University&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;10:00 - 10:20&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Improving LDPC Performance Via Asymmetric Sensing Level Placement on Flash Memory &lt;br /&gt; &lt;em&gt;Dr. Liang Shi, Chongqing University&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;10:20 - 10:30&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Break&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;10:30 - 10:50&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Near-storage processing for data-intensive applications&lt;br /&gt;&lt;em&gt;Dr. Jianhua Li, Hefei University of Technology&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;10:50 - 11:10&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Heterogeneous architecture for convolutional neural network (CNN) &lt;br /&gt; &lt;em&gt;Dr. Keni Qiu, Capital Normal University&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;11:10-11:30&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Designing FPGAs using non-volatile memory technologies&lt;br /&gt;&lt;em&gt;Dr. Mengying Zhao, Shandong University&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;chun-jason-xue-city-university-of-hong-kong&quot;&gt;Chun Jason Xue, City University of Hong Kong&lt;/h2&gt;
+&lt;h3 id=&quot;title&quot;&gt;Title&lt;/h3&gt;
+&lt;p&gt;Flash Memory Performance and Reliability Optimization: From Chips, Controllers to Systems&lt;/p&gt;
+
+&lt;h3 id=&quot;abstract&quot;&gt;Abstract&lt;/h3&gt;
+
+&lt;p&gt;In this talk, I will present our recent works on Flash memory for performance and reliability optimization. This talk will include three parts. The first part will present the background and related works on Flash chip level design. As the quality and reliability of the data written is highly correlated with the Flash programming speed, how to exploit these characteristics are important for Flash memory based storage systems. In addition, state-of-the-art Flash memory is experiencing degraded reliability together with significant process variations. To cope with these issues, several works will be presented which optimize performance and reliability for Flash memories. The second part will present the work on Flash controller design, including parallelism exploration for performance and error correction codes optimizations for reliability. We are especially interested in Low Density Parity Codes, which have good error correction capability, but with high cost in terms of decoding performance. We will also discuss how to exploit the significant process variations for performance and lifetime improvement. The third part will discuss the work on system level of flash based storage devices. Current systems of flash storages have not yet fully exploited the characteristics of flash memory. In this part, I will presents the work on fragmentation issues on smartphone and discuss a cross layer supported I/O scheduling algorithm to achieve performance improvement.&lt;/p&gt;
+
+&lt;h3 id=&quot;bio&quot;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Dr. Chun Jason Xue is an Associate Professor at City University of Hong Kong Computer Science Department. His research interests include non-volatile memories, embedded and realtime systems. He is currently Associate Editor for ACM Transaction on Embedded Computing Systems, Associate Editor for ACM Transaction on CPS, Associated Editor for ACM Transaction on Storage. He was the TPC co-chair for LCTES 2015, TPC co-char for ISVLSI 2016, and has served as TPC members in premiere conferences such as DAC, DATE, RTSS, RTAS, CODES, EMSOFT and ISLPED.&lt;/p&gt;
+
+&lt;h2 id=&quot;jingtong-hu-oklahoma-state-university&quot;&gt;Jingtong Hu, Oklahoma State University&lt;/h2&gt;
+
+&lt;h3 id=&quot;title-1&quot;&gt;Title&lt;/h3&gt;
+
+&lt;p&gt;Design Software and Systems for Non-volatile Processors on Self-Powered Devices&lt;/p&gt;
+
+&lt;h3 id=&quot;abstract-1&quot;&gt;Abstract&lt;/h3&gt;
+
+&lt;p&gt;The vision of Internet of Things (IoT) is to connect “things” embedded with electronics, software, sensors, and connectivity to enable objects to exchange data with the operators and other connected devices, resulting in improved social/economic benefits and overall human well-being. It is estimated that the IoT will consist of almost 50 billion objects by 2020. While the vision is promising and exciting, it is challenging to power these 50 billion embedded devices. Energy harvesting is one of the most promising techniques to power these embedded devices. However, harvested energy is intrinsically unstable. With an unstable power supply, the whole computer system will be interrupted frequently. In this talk, the speaker will present solutions and challenges in designing computer systems to survive frequent power interruption.&lt;/p&gt;
+
+&lt;h3 id=&quot;bio-1&quot;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Jingtong Hu is currently an Assistant Professor in the School of Electrical and Computer Engineering at Oklahoma State University, OK, USA. He received his B.E. degree from School of Computer Science and Technology, Shandong University, China in 2007 and Ph.D. degree in Computer Science from the University of Texas at Dallas, TX, USA in Aug. 2013. His research interests include embedded systems, FPGA, non-volatile memory, and wireless sensor network. His research has been sponsored by National Science Foundation (NSF), Air Force Research Lab (AFRL), and Altera. He has served as Technical Program Committee for many international conferences such as ASP-DAC, DATE, DAC, ESWEEK, RTSS, etc. He is also the recipient of OSU CEAT Outstanding New Faculty Award, Women’s Faculty Council Research Award, and Air Force Summer Faculty Fellowship.&lt;/p&gt;
+
+&lt;h2 id=&quot;石亮-重庆大学&quot;&gt;石亮, 重庆大学&lt;/h2&gt;
+
+&lt;h3 id=&quot;title-2&quot;&gt;Title&lt;/h3&gt;
+
+&lt;p&gt;Improving LDPC Performance Via Asymmetric Sensing Level Placement on Flash Memory&lt;/p&gt;
+
+&lt;h3 id=&quot;abstract-2&quot;&gt;Abstract&lt;/h3&gt;
+
+&lt;p&gt;Flash memory development through technology scaling and bit density has significant impact on the reliability of flash cells. Hence strong ECC schemes are highly recommended. With a strong error correction capability, LDPC is now applied for the state-of-the-art flash memory. However, LDPC needs fine- grained soft sensing between states to iteratively decode the raw data when the raw bit error rates are high, which requires long decoding latency and leads to performance degradation.&lt;/p&gt;
+
+&lt;p&gt;In this talk, I will introduce a novel sensing level placement scheme to reduce the LDPC decoding latency. The basic idea for the placement scheme is motivated by two asymmetric error characteristics of flash memory: the asymmetric errors at different states, and the asymmetric errors caused by voltage left-shifts and right-shifts. With understanding of these two types of error characteristics, the sensing levels are smartly placed to achieve reduced sensing levels while maintaining the error correction capability of LDPC. Experiment analysis shows that the proposed scheme achieves significant performance improvement.&lt;/p&gt;
+
+&lt;h3 id=&quot;bio-2&quot;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;石亮，重庆大学计算机学院副教授。2013年在中国科学技术大学获得博士学位和香港城市大学联合培养博士学位。研究方向是嵌入式系统、实时系统与存储系统。目前主持一项国家自然科学基金青年基金和多项中央高校基金，作为核心成员，参加多项国家自然科学基金项目，国家重点研究计划863项目以及企业合作项目等。近年来在国际重要学术期刊和会议上发表超过50篇学术论文，包括近18篇IEEE Transactions 和ACM Transactions 论文，以及多篇存储系统与嵌入式系统的重要会议论文，并最近三年发表了ICCD、DAC、MSST以及FAST等多个国际高水平会议论文。石亮博士一直在多个国际会议和期刊进行学术服务，其中包括担任LCTES、NVMSA、ASPDAC、VLSI、RTCSA和DAC等会议的技术评议会委员，担任IEEE TVLSI、IEEE ESL、IEEE TCAD、IEEE TC、ACM TECS、IEEE MSCS、 IEEE TPDS等杂志的审稿人。石亮博士是CCF、IEEE和ACM会员。&lt;/p&gt;
+
+&lt;h2 id=&quot;李建华-合肥工业大学&quot;&gt;李建华, 合肥工业大学&lt;/h2&gt;
+
+&lt;h3 id=&quot;title-3&quot;&gt;Title&lt;/h3&gt;
+
+&lt;p&gt;Near-storage processing for data-intensive applications&lt;/p&gt;
+
+&lt;h3 id=&quot;abstract-3&quot;&gt;Abstract&lt;/h3&gt;
+
+&lt;p&gt;Modern high-performance processors are constrained by the end of Dennard scaling in terms of energy dissipation. Traditional compute-centric model is not effective for modern big data applications with large working sets and limited locality. The system performance is now dominated by large data volume and the cost of moving data to the locations where computations are performed. These trends challenge the traditional computation model, leading to the transition to move computation units nearby data, the so-called Near-Data Processing. In this talk, I will present the recent trends in near data processing, focusing on the storage layer. In addition, I will talk about our in-progress works on this emerging area.&lt;/p&gt;
+
+&lt;h3 id=&quot;bio-3&quot;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Jianhua Li now is a full-time lecturer in the School of Computer and Information, Hefei University of Technology. His research interest is computer architecture, specifically on-chip memory system, network-on-chip, etc. Currently he is working with Professor Chun Jason Xue in City University of Hong Kong with the support of Hong Kong Scholar program, investigating energy-efficient near-data processing for analytics applications and data-intensive applications. Specifically, his work focuses on exploring FPGA for efficient and practical near-data processing for SSD-based storage systems. He received his PhD in Computer Science in University of Science and Technology of China and City University of Hong Kong in 2013.&lt;/p&gt;
+
+&lt;h2 id=&quot;邱柯妮-首都师范大学&quot;&gt;邱柯妮, 首都师范大学&lt;/h2&gt;
+
+&lt;h3 id=&quot;title-4&quot;&gt;Title&lt;/h3&gt;
+
+&lt;p&gt;Heterogeneous architecture for convolutional neural network (CNN)&lt;/p&gt;
+
+&lt;h3 id=&quot;abstract-4&quot;&gt;Abstract&lt;/h3&gt;
+
+&lt;p&gt;Architecting emerging NVMs, especially STT-RAM, PCM, ReRAM etc., as cache or main memory for MCUs is a promising technique to replace conventional SRAM/DRAM deployment. However, these emerging NVMs often suffer from long write latency and large write energy. Targeting stencil loops with data dependencies, we present several loop transformation techniques such as loop retiming, loop tiling and loop scheduling to reschedule loop traversals such that the drawbacks of NVMs can be greatly mitigated. In this way, high performance and low dynamic power can be achieved during loop execution.&lt;/p&gt;
+
+&lt;p&gt;Most recently, we focus on designing a heterogeneous architecture to implement convolutional neural network (CNN) for lightweight and power budget devices. The architecture consists of ReRAM crossbar and CPU+FPGA SoC where the PIM-featured ReRAM crossbar offers highly efficient MAC computing and the SoC part provides other uniform computing and controlling. The key issues such as CNN layer mapping, data communication between modules and application-level parallelism have been ongoing explorations.&lt;/p&gt;
+
+&lt;h3 id=&quot;bio-4&quot;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;邱柯妮博士，2014年于香港城市大学获得计算机科学博士学位，目前为首都师范大学信息工程学院副研究员。邱柯妮博士的研究方向包括嵌入式系统及计算机体系结构、非易失性存储器体系结构，尤其关注系统的软硬件协同设计对计算和存储的性能和功耗的影响，她在IEEE/ACM TC、TCAD、TECS、DAC、ICCD等计算机体系结构顶级国际期刊和会议上发表了多篇高水平学术论文。邱柯妮博士于2016年获得计算机设计国际会议（ICCD’16）的最佳论文奖，于2016年接收超大规模集成电路国际会议（VLSI-SoC’16）邀请提交邀请论文。自2014年入职首都师范大学以来，邱柯妮博士主持4项来自国家自然科学基金、北京市教委基金、北京市大学生“实培计划”和北京市未来芯片高精尖中心开放基金项目，并参与过香港研究资助局、总参通信和二炮武器装备部的多个项目。她现为IEEE会员、ACM会员以及中国计算机学会CCF会员，并担任TC、TODAES、TECS、JSA等多家国际顶级期刊的审稿人。&lt;/p&gt;
+
+&lt;h2 id=&quot;赵梦莹-山东大学&quot;&gt;赵梦莹, 山东大学&lt;/h2&gt;
+
+&lt;h3 id=&quot;title-5&quot;&gt;Title&lt;/h3&gt;
+
+&lt;p&gt;Designing FPGAs using non-volatile memory technologies&lt;/p&gt;
+
+&lt;h3 id=&quot;abstract-5&quot;&gt;Abstract&lt;/h3&gt;
+
+&lt;p&gt;Field Programmable Gate Array (FPGA) has been widely adopted as modern reconfigurable computing platforms. Traditionally, the storage elements in FPGAs are conventional static RAM (SRAM), which has large leakage power and limited scalability. Recently, non-volatile memory (NVM) is proposed to replace the SRAM in FPGA systems for static power and density considerations, at the cost of inducing larger dynamic power. Although NVM-based FPGA architectures have been proposed, the design flow of FPGA systems is still SRAM-oriented. In this talk, I will present our recent work on NVM-based FPGA design, where NVM characteristics are integrated into the FPGA design flow, including read/write asymmetry and usage of multiple level cells.&lt;/p&gt;
+
+&lt;h3 id=&quot;bio-5&quot;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Mengying Zhao received B.E. degree in School of Computer Science and Technology from Shandong University, China in July 2011, and Ph.D. degree in Department of Computer Science, City University of Hong Kong in July 2015. She is now an Assistant Professor in School of Computer Science and Technology in Shandong University. Her research interests include computer architecture, embedded and real-time systems, and non-volatile memory.&lt;/p&gt;</content><author><name></name></author><summary type="html">2016 Workshop on Non-volatile Memory and Its Application</summary></entry></feed>
