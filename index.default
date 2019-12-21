@@ -39,9 +39,19 @@
           &emsp;
       </a>
     
+      <a href="/ads.html"  style="text-decoration: none">
+          Academic Jobs  
+          &emsp;
+      </a>
+    
   </nav>
         <div class="home"><h2 class="post-list-heading">Posts</h2>
-    <ul class="post-list"><li><span class="post-meta">Nov 1, 2019</span>
+    <ul class="post-list"><li><span class="post-meta">Dec 20, 2019</span>
+        <h3>
+          <a class="post-link" href="/job/2019/12/20/job.html">
+            Jobs in Hong Kong (prefering master degree)
+          </a>
+        </h3></li><li><span class="post-meta">Nov 1, 2019</span>
         <h3>
           <a class="post-link" href="/conference/2019/11/01/Kaldi2019.html">
             参加 Kaldi 线下交流会
